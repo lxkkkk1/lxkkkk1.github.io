@@ -3,11 +3,11 @@
   <title>雪kai`Blog</title>
   
   <subtitle>阳光明媚的一天看看博客吧～</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lxkkkk1.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lxkkkk1.github.io/"/>
   <updated>2022-12-01T20:57:59.691Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lxkkkk1.github.io/</id>
   
   <author>
     <name>雪kai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://lxkkkk1.github.io/posts/4a17b156.html"/>
+    <id>https://lxkkkk1.github.io/posts/4a17b156.html</id>
     <published>2022-12-01T20:33:47.213Z</published>
     <updated>2022-12-01T20:57:59.691Z</updated>
     
